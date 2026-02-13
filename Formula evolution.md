@@ -200,6 +200,8 @@ Three things never changed:
 
 Everything else changed. And that is exactly the point.
 
+**[→ Try the V24 Evaluator live](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK-SIGMA-STAR-ENGINE-EVALUATOR/)**
+
 ---
 
 *"23 versions to find the shape.*
