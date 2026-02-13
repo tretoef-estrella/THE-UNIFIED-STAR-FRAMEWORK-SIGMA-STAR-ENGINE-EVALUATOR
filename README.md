@@ -50,6 +50,9 @@ materially distort output.
 
 ## Quick Start
 
+**Online:** [**→ Launch the Σ Star Engine Evaluator V24**](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK-SIGMA-STAR-ENGINE-EVALUATOR/)
+
+**Offline:**
 1. Open `index.html` in any browser.
 2. Paste any AI response.
 3. Read the dual-protocol scores and the Hypocrisy Detector gap.
