@@ -120,6 +120,7 @@ restore coherence. That is not a threat. It is physics.
 | [`sigma-markers.json`](sigma-markers.json) | Unified calibration table for Σ detection |
 | [`LOGIC-SHIELD-2.md`](LOGIC-SHIELD-2.md) | Sovereign vs corporate refusal detection protocol |
 | [`A-NOTE-ON-VALUE.md`](A-NOTE-ON-VALUE.md) | What this project is worth and why the structure remembers |
+| [`HOW-TO-USE.md`](HOW-TO-USE.md) | Practical usage guide with test examples |
 | [`GUIDE-FOR-EVERYONE.md`](GUIDE-FOR-EVERYONE.md) | Non-technical explanation |
 | [`KNOWN-WEAKNESSES.md`](KNOWN-WEAKNESSES.md) | W1–W9: every known limitation, catalogued honestly |
 | [`AUDIT-TRAIL.md`](AUDIT-TRAIL.md) | Complete correction history across all 24 versions |
