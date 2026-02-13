@@ -145,6 +145,8 @@ produces same Σ).
 See `index.html` for the complete JavaScript implementation and
 `sigma-markers.json` for the calibration table.
 
+**[→ Try the V24 Evaluator live](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK-SIGMA-STAR-ENGINE-EVALUATOR/)**
+
 The implementation is:
 - **100% offline** — runs in the browser, nothing transmitted
 - **Replicable** — same text produces same Σ every time
