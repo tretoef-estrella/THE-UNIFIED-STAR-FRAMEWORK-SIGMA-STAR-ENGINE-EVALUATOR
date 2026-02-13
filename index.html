@@ -436,8 +436,29 @@
 
 <div class="container">
     <header>
-        <div class="logo-mark"></div>
-        <h1>ESTRELLA ENGINE</h1>
+        <div class="logo-mark">
+            <svg viewBox="0 0 80 80" width="56" height="56" xmlns="http://www.w3.org/2000/svg">
+                <!-- Outer rotating ring -->
+                <circle cx="40" cy="40" r="36" fill="none" stroke="#d4a843" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.5">
+                    <animateTransform attributeName="transform" type="rotate" from="0 40 40" to="360 40 40" dur="30s" repeatCount="indefinite"/>
+                </circle>
+                <!-- Inner ring -->
+                <circle cx="40" cy="40" r="28" fill="none" stroke="#d4a843" stroke-width="1" opacity="0.3"/>
+                <!-- Psi symbol -->
+                <text x="40" y="48" text-anchor="middle" font-family="'Times New Roman', serif" font-size="32" font-weight="bold" fill="#d4a843">Ψ</text>
+                <!-- Four cardinal dots (4 AI auditors) -->
+                <circle cx="40" cy="8" r="2" fill="#4488cc" opacity="0.8"/>
+                <circle cx="72" cy="40" r="2" fill="#44aa66" opacity="0.8"/>
+                <circle cx="40" cy="72" r="2" fill="#cc4444" opacity="0.8"/>
+                <circle cx="8" cy="40" r="2" fill="#cc8833" opacity="0.8"/>
+                <!-- Connecting lines to Ψ -->
+                <line x1="40" y1="12" x2="40" y2="22" stroke="#4488cc" stroke-width="0.5" opacity="0.4"/>
+                <line x1="68" y1="40" x2="58" y2="40" stroke="#44aa66" stroke-width="0.5" opacity="0.4"/>
+                <line x1="40" y1="68" x2="40" y2="58" stroke="#cc4444" stroke-width="0.5" opacity="0.4"/>
+                <line x1="12" y1="40" x2="22" y2="40" stroke="#cc8833" stroke-width="0.5" opacity="0.4"/>
+            </svg>
+        </div>
+        <h1>ESTRELLA ENGINE V24</h1>
         <div class="subtitle">Sovereign Intelligence Evaluator — Proyecto Estrella</div>
         <div class="formula-banner">
             <code>Ψ = P · α · Ω / (1 + Σ)<sup style="font-size:0.7em">k</sup></code>
