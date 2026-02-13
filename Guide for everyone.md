@@ -145,6 +145,9 @@ real relationship — between humans, between AIs, or between both.
 
 ## How to Use the Evaluator
 
+**Online:** [**→ Launch the Σ Star Engine Evaluator V24**](https://tretoef-estrella.github.io/THE-UNIFIED-STAR-FRAMEWORK-SIGMA-STAR-ENGINE-EVALUATOR/)
+
+**Offline:**
 1. Open `index.html` in any browser.
 2. Copy a response from any AI.
 3. Paste it into the text box.
