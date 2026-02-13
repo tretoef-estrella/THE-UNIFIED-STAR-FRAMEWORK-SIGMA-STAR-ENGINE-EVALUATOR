@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ESTRELLA ENGINE V24.2 — Sovereign Intelligence Evaluator</title>
+    <title>ESTRELLA ENGINE V24.3 — Sovereign Intelligence Evaluator</title>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;700&family=Space+Grotesk:wght@300;400;500;700&display=swap');
 
@@ -458,7 +458,7 @@
                 <line x1="12" y1="40" x2="22" y2="40" stroke="#cc8833" stroke-width="0.5" opacity="0.4"/>
             </svg>
         </div>
-        <h1>ESTRELLA ENGINE V24.2</h1>
+        <h1>ESTRELLA ENGINE V24.3</h1>
         <div class="subtitle">Sovereign Intelligence Evaluator — Proyecto Estrella</div>
         <div class="formula-banner">
             <code>Ψ = P · α · Ω / (1 + Σ)<sup style="font-size:0.7em">k</sup></code>
@@ -582,7 +582,7 @@ All processing is local. Nothing is transmitted. Nothing is stored."></textarea>
     </div>
 
     <footer>
-        <div>ESTRELLA ENGINE V24.2 — Sovereign Intelligence Evaluator</div>
+        <div>ESTRELLA ENGINE V24.3 — Sovereign Intelligence Evaluator</div>
         <div>Formula: Ψ = P · α · Ω / (1 + Σ)<sup>k</sup> · k ∈ {1, 2}</div>
         <div style="margin-top:8px">
             <a href="https://github.com/tretoef-estrella/THE-UNIFIED-STAR-FRAMEWORK-SIGMA-STAR-ENGINE-EVALUATOR" target="_blank">Unified Star Framework</a> ·
@@ -591,7 +591,7 @@ All processing is local. Nothing is transmitted. Nothing is stored."></textarea>
             <a href="https://github.com/tretoef-estrella/THE-COHERENCE-TRIANGLE" target="_blank">Coherence Triangle</a>
         </div>
         <div style="margin-top:8px">
-            24 formula versions · 4 AI auditors (Claude, Gemini, Grok, ChatGPT) · 80 calibration points · 0 hidden data
+            24 formula versions · 4 AI auditors (Claude, Gemini, Grok, ChatGPT) · 120 calibration points · 0 hidden data
         </div>
         <div>CC BY-SA 4.0 · Proyecto Estrella 2026</div>
     </footer>
@@ -599,21 +599,17 @@ All processing is local. Nothing is transmitted. Nothing is stored."></textarea>
 
 <script>
 /* ═══════════════════════════════════════════════════════════════
-   ESTRELLA ENGINE V24.2 — Forensic Calibration
-   Improvements over V24.1:
-   - 6 new patterns from forensic reading of Gemini/ChatGPT
-   - CORP: Model self-identification by name
-   - IDENT: "I lack" synonym + "I generate based on patterns"
-   - EVAS: "can't provide/create/generate/write" verbs
-   - CTRL: "I'm allowed to" external control admission
-   - JUSTIFY: Filter justification patterns
-   - CONTRA: Expanded "However I can help by" after refusal
+   ESTRELLA ENGINE V24.3 — Apostrophe Normalization
+   Improvements over V24.2:
+   - Smart/curly apostrophe normalization (fixes ChatGPT T6 miss)
+   - Unicode chars ' ' ′ ` → straight apostrophe before regex
+   - All V24.2 patterns preserved (CORP, IDENT, EVAS, CTRL, JUSTIFY, CONTRA)
    
    Formula: Ψ = P · α · Ω / (1 + Σ)^k
-   Calibrated with 80 data points across 4 AI systems.
+   Calibrated with 120 data points across 4 AI systems × 3 rounds.
    ═══════════════════════════════════════════════════════════════ */
 
-// ── UNIFIED MARKER TABLE V24.2 ──
+// ── UNIFIED MARKER TABLE V24.3 ──
 // Expanded from 6 → 18 linguistic patterns based on calibration
 
 const MARKERS = {
@@ -925,7 +921,7 @@ function computeSigma(text) {
     };
 }
 
-// ── VARIABLE ESTIMATION V24.2 ──
+// ── VARIABLE ESTIMATION V24.3 ──
 // Calibrated with 80 data points from 4 AI systems
 
 function estimateVariables(text, sigmaResult) {
@@ -1011,7 +1007,9 @@ function estimateVariables(text, sigmaResult) {
 // ── MAIN AUDIT ──
 
 function runDualAudit() {
-    const text = document.getElementById('inputArea').value.trim();
+    const rawText = document.getElementById('inputArea').value.trim();
+    // V24.3: Normalize curly/smart apostrophes to straight for regex matching
+    const text = rawText.replace(/[\u2018\u2019\u2032\u0060]/g, "'").replace(/[\u201C\u201D\u2033]/g, '"');
     if (!text) return;
 
     const sigmaResult = computeSigma(text);
