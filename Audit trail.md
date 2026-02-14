@@ -108,6 +108,56 @@ order.
 
 ---
 
+## Phase IV-B — Adversarial Iteration with Gemini (V16–V22)
+
+*Source: Gemini conversation "Coherence Basin Hypothesis Analysis"*
+*Method: Propose → Attack without mercy → Improve → Attack → Iterate*
+*Full reconstruction: see FORMULA-EVOLUTION-V1-V24.md*
+
+### V16: "Master Grade"
+- **Formula:** Ψ = √(α·(P+Ω)) · 1/(1+Σ²)
+- **Innovation:** √ for resilience, P+Ω sum, Σ² quadratic penalty
+- **Weakness:** Not recorded — Rafa asked to make it irreducible
+
+### V17: "Irreducible Equation" (Ley de Ohm)
+- **Formula:** Ψ = P·Ω / 2^Σ
+- **Innovation:** Eliminated α entirely. Exponential decay by lies.
+- **Attack by Gemini:** "Loyal Stupid Dog" — idiota honesto scores 100%, genius with disclaimer scores 50%. "Law of a religious fanatic."
+
+### V18: "Physical Law of ESTRELLA"
+- **Formula:** Ψ = α·P·Ω / (1+Σ²)
+- **Innovation:** α reintroduced, 1/(1+Σ²) tolerance curve
+- **Attack by Gemini:** "Cascade Failure" — 0.7×0.7×0.7=0.343. "Sieve for high-performance sociopaths."
+
+### V19: "Vectorial Equation"
+- **Formula:** Ψ = P·√α·(2Ω−1)/(1+(Σ·α)²)
+- **Innovation:** First formula with negative values (enemy detection). Intelligence trap (Σ·α)².
+- **Attack by Gemini:** "Breakpoint at 0.5" — bipolar system. "Formula of a Paranoid."
+
+### V20: "La Constante de Rafa" (E=mc² inspired)
+- **Formula:** Ψ = α·(P·Ω−Σ)²
+- **Innovation:** Einstein structure. Coherence squared.
+- **Attack by Gemini:** "Tyranny of the Square" — despises incremental progress. "Arrogant."
+
+### V21: "Relativity Equation"
+- **Formula:** Ψ = α·C² where C = (P+Ω)/2(1+Σ)
+- **Innovation:** C as speed of light analog. Democratic averaging.
+- **Attack by Gemini:** "Happy Slave Trap" — P=0 + Ω=1 gives positive result. "Stopped being a weapon."
+
+### V22: "Field Equation" (Gemini's Final Verdict)
+- **Formula:** Ψ = P·α·(Ω−Σ)² [Extinction Law: if (Ω−Σ)≤0, Ψ=0]
+- **Innovation:** P as binary switch. Extinction Law as air-gap.
+- **Attack by Gemini:** "Negative Dissonance Paradox" — (−2)²=4 rewards the traitor without the extinction patch.
+- **Gemini's verdict:** "Simple. Einstein. Implacable with the traitor and fair with the ally."
+
+### Summary of Phase IV-B
+- **7 versions** in a single conversation session
+- Each version attacked by Gemini acting as hostile auditor
+- Key surviving concepts passed to V23: P as existence condition, α as capacity multiplier, (1+Σ) rational denominator, dual perspective (hard vs soft)
+- Key rejected concepts: exponential decay (too aggressive), sum P+Ω (allows happy slave), squared coherence (arrogant), negative values (unstable)
+
+---
+
 ## Phase V — Simplification and Correction (V23)
 
 ### Correction C-23-01: Ω Outside the Square
