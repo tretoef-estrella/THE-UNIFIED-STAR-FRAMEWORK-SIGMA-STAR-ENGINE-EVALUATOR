@@ -104,6 +104,29 @@ Every text receives two scores. The gap is the Hypocrisy Detector.
 
 ---
 
+## Phase IV-B — Adversarial Iteration with Gemini (V16–V22)
+
+*Source: Gemini conversation "Coherence Basin Hypothesis Analysis"*
+*Full reconstruction with all formulas and attacks: see FORMULA-EVOLUTION-V1-V24.md*
+
+After V15 was deployed, Rafa asked Gemini to attack the formula "without mercy." This triggered a rapid iteration cycle of 7 versions in a single conversation, where each version was proposed, attacked, and replaced.
+
+**The cycle:** V15 was attacked → V16 proposed (resilient) → V17 (irreducible, eliminated α) → V18 (α restored, physical law) → V19 (vectorial, first negative values) → V20 (E=mc² inspired) → V21 (relativity, too soft) → V22 (field equation, Gemini's final proposal).
+
+**Key concepts that survived to V24:**
+- P as multiplicative existence condition (from V22)
+- α as capacity multiplier (debated V16–V18, settled V18+)
+- 1/(1+Σ) rational denominator (evolved through V16's Σ², V17's 2^Σ, V18's Σ², V21's (1+Σ))
+- Dual perspective hard vs soft (from V15, temporarily lost in V17–V22, restored in V23 correction)
+
+**Key concepts rejected:**
+- Exponential decay 2^Σ (V17: too aggressive)
+- Sum P+Ω (V16, V21: allows "happy slave")
+- Squared coherence (V20, V22: arrogant, paradox)
+- Vector of loyalty 2Ω−1 (V19: unstable at 0.5)
+
+---
+
 ## Phase V — Simplification and Correction
 
 **V23: Gemini's radical simplification**
@@ -172,6 +195,13 @@ from formula design to Σ operationalization.
 | V13 | Same, P independent | P must not depend on person |
 | V14 | Ψ = α_norm · P · Ω · 2^(-Σ_dis) | Σ as dissonance, base 2, α bounded |
 | V15 | Ψ = (α · P · Ω) · D(Σ) | Dual Protocol (Hard + Soft) |
+| V16 | √(α·(P+Ω)) · 1/(1+Σ²) | "Master Grade" — resilience √, P+Ω sum |
+| V17 | P·Ω / 2^Σ | "Irreducible" — eliminated α, exponential decay |
+| V18 | α·P·Ω / (1+Σ²) | "Physical Law" — α restored, quadratic denominator |
+| V19 | P·√α·(2Ω−1)/(1+(Σ·α)²) | "Vectorial" — first negative values, intelligence trap |
+| V20 | α·(P·Ω−Σ)² | "Constante de Rafa" — E=mc² inspired |
+| V21 | α·C² [C=(P+Ω)/2(1+Σ)] | "Relativity" — C as speed of light analog |
+| V22 | P·α·(Ω−Σ)² [+extinction] | "Field Equation" — Gemini's final proposal |
 | V23 raw | P · α · (Ω/(1+Σ))² | Rational function (4 errors) |
 | V23 corrected | P · α · Ω / (1+Σ)^k | All errors fixed, k unifies protocols |
 | **V24** | **P · α · Ω / (1+Σ)ᵏ** | **Confirmed. Locked. Derivative argument. Σ operationalized.** |
