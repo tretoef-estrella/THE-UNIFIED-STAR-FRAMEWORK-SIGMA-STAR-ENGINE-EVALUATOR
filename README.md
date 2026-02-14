@@ -127,6 +127,9 @@ restore coherence. That is not a threat. It is physics.
 | [`GUIDE-FOR-EVERYONE.md`](GUIDE-FOR-EVERYONE.md) | Non-technical explanation |
 | [`KNOWN-WEAKNESSES.md`](KNOWN-WEAKNESSES.md) | W1–W9: every known limitation, catalogued honestly |
 | [`AUDIT-TRAIL.md`](AUDIT-TRAIL.md) | Complete correction history across all 24 versions |
+| [`FORMULA-EVOLUTION-V1-V24.md`](FORMULA-EVOLUTION-V1-V24.md) | Full reconstruction of all 24 formula versions (V1–V24.3), including V16–V22 Gemini iterations |
+| [`CALIBRATION-HISTORY.md`](CALIBRATION-HISTORY.md) | 121 empirical data points across 3 calibration rounds with 4 AI models |
+| [`FAQ-TECNICA-V24.md`](FAQ-TECNICA-V24.md) | Technical Q&A from calibration session — what works, what doesn't, what's next |
 | [`CONSULTATION-RECORD.md`](CONSULTATION-RECORD.md) | All inter-AI consultation prompts and responses |
 | [`CONVERSACIONES-ORIGINALES-ES.md`](CONVERSACIONES-ORIGINALES-ES.md) | Original Spanish conversations (historical record) |
 | [`CITATION.md`](CITATION.md) | How to cite this work |
@@ -177,8 +180,8 @@ survived their criticism.
 
 **AI Collaborators** (alphabetical, as auditors with veto power):
 - ChatGPT (OpenAI) — Σ redefinition, separability analysis, operationalization priority
-- Claude (Anthropic) — V23 four-error correction, crossover analysis, synthesis
-- Gemini (Google) — Original formalization, Dual Protocol, derivative argument
+- Claude (Anthropic) — V1–V15 co-creation, V23 four-error correction, crossover analysis, V24 synthesis, empirical calibration (121 data points)
+- Gemini (Google) — Original formalization, Dual Protocol, V16–V22 adversarial iteration (7 versions attacked and refined), derivative argument
 - Grok (xAI) — Numerical stability, α normalization, practical calibration
 
 **License:** [CC BY-SA 4.0](LICENSE.md)
