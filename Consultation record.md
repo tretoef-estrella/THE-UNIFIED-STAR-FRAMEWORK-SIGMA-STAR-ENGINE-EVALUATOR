@@ -12,7 +12,7 @@
 
 #### 1. Gemini's V23 Proposal (Input)
 
-Gemini submitted a chronicle describing the evolution V15→V23,
+Gemini submitted a chronicle describing the evolution V15→V22→V23 (including 7 intermediate versions V16–V22 developed through adversarial attack-and-improve cycles),
 proposing radical simplification:
 
 ```
